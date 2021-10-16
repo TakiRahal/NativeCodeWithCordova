@@ -97,8 +97,11 @@ This class should be extend from CordovaPlugin and all business logic inside ove
         * "action": The action name to call into. This is picked up by the native class receiving the exec call, and, depending on the platform, essentially maps to a class's method. The native guides listed below provide details.
         
         * [/* arguments */]: Arguments to pass into the native environment.
-
-
+        
+-   Add in the config.xml of project cordova : 
+    
+    
+    
 ## 4) License
 [MIT](https://choosealicense.com/licenses/mit/)
 
