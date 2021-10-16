@@ -79,7 +79,7 @@ This class should be extend from CordovaPlugin and all business logic inside ove
         }
     }
     
--   cordova.exec: is a function like the entry point for any plugin from the project
+-   cordova.exec: is a function like the entry point for any plugin of the project
     
         cordova.exec(function(winParam) {}, function(error) {}, "service",
                          "action", ["firstArgument", "secondArgument", 42,
