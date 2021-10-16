@@ -4,6 +4,8 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 ## 1) Demo
 
+## 1) Environment Setup
+
 ## 2) Installing
     
 #### - *HybrideApp* 
@@ -27,11 +29,15 @@ Colons can be used to align columns.
 | Native Code =>                                       | Hybride Cordova                     |
 | -----------------------------------------------------|:-----------------------------------:|
 | Files xml, Swift-UI, ... **=>**                      | Html5 + Css                         |
-| Files java, kotlin, ObjectC, ... **=>**              | Controller javaScript               |
+| Files java, kotlin, ObjectC, ... **=>**              | Controller JavaScript               |
 | New instance Object **=>**                           | ProviderPlugin + cordova.exec       |
 
 
+-   _Files xml or Swift-UI_ **to** _Html5 + Css_: A layout defines the structure for a user interface in your app, 
+such as in an application native with Android or iOS, usually we used files xml or Swift-UI, but with cordova 
+we should use a files html and css
 
+-   _Files java, kotlin, ObjectiveC_ **to** _Controller JavaScript_: 
 
 ## 4) License
 [MIT](https://choosealicense.com/licenses/mit/)
