@@ -1,7 +1,10 @@
-# Native code mobile application (Java or ObjectiveC) to hybride cordova
+# Native code for mobile application (Java or ObjectiveC) to hybride cordova
 
 ## 1) Demo
 
+## 2) Installing
+
+## 3) Usage
 
 ## 5) Author    
 *Taki Eddine Rahal*     
