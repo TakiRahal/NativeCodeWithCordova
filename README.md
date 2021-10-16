@@ -1,7 +1,6 @@
-# Nativ code mobile application to hybride cordova
+# Native code mobile application (Java or ObjectiveC) to hybride cordova
 
-## Demo
-Native Code (Java or ObjectiveC) to Cordova 
+## 1) Demo
 
 
 ## 5) Author    
