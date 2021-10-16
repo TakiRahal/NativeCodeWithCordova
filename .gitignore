@@ -83,5 +83,5 @@ out/
 .gradle/
 /build/
 
-HybrideApp/platforms/*
-HybrideApp/plugins/*
+/HybrideApp/platforms/*
+/HybrideApp/plugins/*
