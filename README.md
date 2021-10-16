@@ -24,11 +24,13 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 Colons can be used to align columns.
 
-| Native Code                             | Hybride Cordova                     |
-| ----------------------------------------|:-----------------------------------:|
-| Files xml                               | Html5 + Css                         |
-| Files java, kotlin, ObjectC, ...        | Controller javaScript               |
-| New instance Object                     | ProviderPlugin + cordova.exec       |
+| Native Code =>                                       | Hybride Cordova                     |
+| -----------------------------------------------------|:-----------------------------------:|
+| Files xml, Swift-UI, ... **=>**                      | Html5 + Css                         |
+| Files java, kotlin, ObjectC, ... **=>**              | Controller javaScript               |
+| New instance Object **=>**                           | ProviderPlugin + cordova.exec       |
+
+
 
 
 ## 4) License
