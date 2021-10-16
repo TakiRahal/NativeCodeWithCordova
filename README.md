@@ -38,6 +38,9 @@ such as in an application native with Android or iOS, usually we used files xml 
 we should use a files html and css
 
 -   _Files java, kotlin, ObjectiveC_ **to** _Controller JavaScript_: 
+In code native, we used many of classes to intercept the events or 
+to collect data from a user's interaction with the application, in code hybride, 
+we need to use a file javascript for bind events (controller javascript)
 
 ## 4) License
 [MIT](https://choosealicense.com/licenses/mit/)
