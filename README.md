@@ -6,6 +6,8 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 ## 1) Environment Setup
 
+    Cordova, Ionic, Java, Kotlin, ObjectiveC, NodeJs
+
 ## 2) Installing
     
 #### - *HybrideApp* 
