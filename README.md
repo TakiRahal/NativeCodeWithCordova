@@ -1,9 +1,10 @@
 # Native code for mobile application (Java or ObjectiveC) to hybride cordova
 
+A Cordova plugin bridges a bit of functionality between the WebView powering a Cordova application and the native platform the Cordova application is running on. Plugins are composed of a single JavaScript interface used across all platforms, and native implementations following platform-specific Plugin interfaces that the JavaScript calls into. All of the core Cordova APIs are implemented using this architecture.
+
 ## 1) Demo
 
 ## 2) Installing
-
     
 #### - *HybrideApp* 
     
