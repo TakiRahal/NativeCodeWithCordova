@@ -99,6 +99,7 @@ This class should be extend from CordovaPlugin and all business logic inside ove
         * [/* arguments */]: Arguments to pass into the native environment.
         
 -   Add in the config.xml of project cordova : 
+
     ![](https://github.com/TakiRahal/NativeCodeWithCordova/blob/main/HybrideApp/resources/0.PNG)   
     
     
