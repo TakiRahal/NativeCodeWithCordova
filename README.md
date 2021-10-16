@@ -4,6 +4,21 @@
 
 ## 2) Installing
 
+    
+#### - *HybrideApp* 
+    
+    - clone project HybrideApp
+    - run npm i
+    - run cordova platform add android / ios
+    
+    + Fro test on real device run : cordova run android / ios
+    
+
+#### - *NativeApp* 
+    - clone project NativeApp
+    - Open with AndroidStudio
+    - Run app
+
 ## 3) Usage
 
 ## 5) Author    
