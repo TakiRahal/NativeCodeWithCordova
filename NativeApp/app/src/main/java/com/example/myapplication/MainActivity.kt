@@ -26,13 +26,11 @@ class MainActivity : AppCompatActivity() {
         result = findViewById(R.id.tvResult) as TextView;
 
         btnSomme?.setOnClickListener {
-            var valueFirstNumber = firstNumber!!.text.toString().toInt();
-            var valueSecondtNumber = secondNumber!!.text.toString().toInt();
-
-            // result!!.setText((valueFirstNumber + valueSecondtNumber).toString());
+            var valueMinNumber = firstNumber!!.text.toString().toInt();
+            var valueMaxNumber = secondNumber!!.text.toString().toInt();
 
             val mainServices = MainServices()
-            numersPrimes = mainServices.getPrimesNumber(valueFirstNumber, valueSecondtNumber);
+            numersPrimes = mainServices.getPrimesNumber(valueMinNumber, valueMaxNumber);
             result!!.setText(numersPrimes);
         }
 
