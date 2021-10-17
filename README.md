@@ -29,7 +29,7 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 ## 4) Usage
 
-Colons can be used to align columns.
+The greatest analogies between Native code and Hybride Cordova
 
 | Native Code =>                                       | Hybride Cordova                     |
 | -----------------------------------------------------|:-----------------------------------:|
