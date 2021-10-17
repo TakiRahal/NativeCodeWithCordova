@@ -4,11 +4,11 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 ## 1) Demo
 
-## 1) Environment Setup
+## 2) Environment Setup
 
     Cordova, Ionic, Java, Kotlin, ObjectiveC, NodeJs
 
-## 2) Installing
+## 3) Installing
     
 #### - *HybrideApp* 
     
@@ -16,15 +16,16 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
     - run npm i
     - run cordova platform add android / ios
     
-    + Fro test on real device run : cordova run android / ios
+    + For test on real device run : cordova run android / ios
     
 
 #### - *NativeApp* 
     - clone project NativeApp
     - Open with AndroidStudio
+    - Synchronize
     - Run app
 
-## 3) Usage
+## 4) Usage
 
 Colons can be used to align columns.
 
@@ -103,11 +104,11 @@ This class should be extend from CordovaPlugin and all business logic inside ove
     ![](https://github.com/TakiRahal/NativeCodeWithCordova/blob/main/HybrideApp/resources/0.PNG)   
     
     
-## 4) License
+## 5) License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## 5) Author    
+## 6) Author    
 *Taki Eddine Rahal*     
 *Software Engineer* 
  
