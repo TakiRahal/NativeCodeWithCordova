@@ -4,6 +4,8 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 ## 1) Demo
 
+[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/ShopLineProject/blob/main/EcommerceMobile/src/assets/imgs/ScreenMobile.PNG)](https://www.youtube.com/watch?v=crSw9iMgx-o&t=48s)
+
 ## 2) Environment Setup
 
     Cordova, Ionic, Java, Kotlin, ObjectiveC, NodeJs
