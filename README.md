@@ -1,4 +1,4 @@
-# Native code for mobile application (Java or ObjectiveC) to hybride cordova
+# Native code for mobile application (Java or ObjectiveC) to hybrid cordova
 
 A Cordova plugin bridges a bit of functionality between the WebView powering a Cordova application and the native platform the Cordova application is running on. Plugins are composed of a single JavaScript interface used across all platforms, and native implementations following platform-specific Plugin interfaces that the JavaScript calls into. All of the core Cordova APIs are implemented using this architecture.
 
@@ -29,9 +29,9 @@ A Cordova plugin bridges a bit of functionality between the WebView powering a C
 
 ## 4) Usage
 
-The greatest analogies between Native code and Hybride Cordova
+The greatest analogies between Native code and Hybrid Cordova
 
-| Native Code =>                                       | Hybride Cordova                     |
+| Native Code =>                                       | Hybrid Cordova                     |
 | -----------------------------------------------------|:-----------------------------------:|
 | Files xml, Swift-UI, ... **=>**                      | Html5 + Css                         |
 | Files java, kotlin, ObjectC, ... **=>**              | Controller JavaScript               |
@@ -44,7 +44,7 @@ we should use a files html and css
 
 -   _Files java, kotlin, ObjectiveC_ **to** _Controller JavaScript_: 
 In native code, we used many of classes to intercept the events or 
-to collect data from a user's interaction with the application, in hybride code, 
+to collect data from a user's interaction with the application, in hybrid code, 
 we need to use a files javascript for bind events (controller javascript)
 
 -   New Instance: With native code, we write new Object for instance any class, but with cordova,
